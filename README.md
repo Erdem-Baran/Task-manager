@@ -23,7 +23,7 @@ React ile geliştirilmiş modern ve kullanıcı dostu bir görev yönetimi uygul
 
 1. **Repository'yi klonlayın:**
 ```bash
-git clone https://github.com/[kullanici-adiniz]/task-manager.git
+git clone https://github.com/Erdem-Baran/task-manager.git
 cd task-manager
 ```
 
